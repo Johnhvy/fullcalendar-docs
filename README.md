@@ -5,8 +5,6 @@ This repo contains the static content for [fullcalendar.io/docs](https://fullcal
 
 Documentation articles are found in directories like `_docs-*`.
 
-Made with [Jekyll](https://jekyllrb.com/).
-
 
 ## Reporting Problems
 
